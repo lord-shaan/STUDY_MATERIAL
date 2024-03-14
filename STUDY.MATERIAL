@@ -1,0 +1,274 @@
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.rtl.min.css"
+        integrity="sha384-nU14brUcp6StFntEOOEBvcJm4huWjB0OcIeQ3fltAfSmuZFrkAif0T+UtNGlKKQv" crossorigin="anonymous">
+
+    <title>bootstrap</title>
+</head>
+
+<body>
+    <section id="nav-bar">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img class="study"
+                        src="https://play-lh.googleusercontent.com/vDSp710FQFuV5mheZOctquSR_B-sRGJ4gpCVMDm4pV-It2vW0m6-byN4dR70ebosDzs"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#home">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#services">SERVICES</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#about us">ABOUT US</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contact us">CONTACT US</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#reviews">REVIEWS</a>
+                        </li>
+                    </ul>
+                    <form class="d-flex">
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </section>
+    <section id="banner">
+        <!-- banner  -->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <p id="promo-title">BEST QUALITY AND AFFORDABLE COURSES</p>
+                    <p>one of the best resource for the preperation of IIT-JEE. It is from one of the finest coaching
+                        institute of kota.</p>
+                    <a href="#"><img src="https://www.svgrepo.com/show/75057/play-button.svg" class="play-btn">watch
+                        lectures</a>
+                </div>
+                <div class="col-md-6 text-center">
+                    <img src="https://static.vecteezy.com/system/resources/previews/000/424/968/original/students-in-different-character-isolated-on-white-background-vector.jpg"
+                        class="img-fluid">
+                </div>
+    </section>
+    <!-- SERVICES  -->
+    <section id="services">
+        <div class="container">
+            <!-- <div class="row"> -->
+            <div class="col-md-12 services">
+                <img src="https://static.vecteezy.com/system/resources/previews/003/088/036/non_2x/online-education-concept-student-studying-with-laptop-vector.jpg"
+                    class="img-fluid-1">
+                <h3 id="line1">Tooper Notes</h3>
+                <p class="iit">comprehensive and consive kota topper notes with great and in depth theory for scoring
+                    high and
+                    being able to achieve the target.</p>
+                <div class="col-md-12 services">
+                    <img src="https://cdn2.vectorstock.com/i/1000x1000/74/96/quality-content-concept-vector-43307496.jpg"
+                        class="img-fluid-1 center-text">
+                    <h3 id="line2">Hybrid Mode</h3>
+                    <p class="iit">student can prepare easily by both online and offfline modes of study also the
+                        lectures will
+                        be available also in case of any emergency</p>
+                    <div class="col-md-12 services">
+                        <img src="https://static.vecteezy.com/system/resources/previews/000/426/771/non_2x/vector-male-teacher-with-pointer-on-lesson-at-blackboard-in-classroom.jpg"
+                            class="img-fluid-1 center-text">
+                        <h3 id="line3">Top faculty </h3>
+                        <p class="iit">student gets chance to prepare from the top faculty of India and with the
+                            experience of teacherrs with more than 30 years and student can ask the doubt from the.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- About us  -->
+    <section class="hello" id="about%20us">
+        <div class="container">
+            <h1 class="title text-center about%20us">About us</h1>
+            <div class="row">
+                <div class="col-md-6 about%20us">
+                    <p id="jee-m">Trusted by more than 30000 IIT-JEE aspirants. We are known for our quality and
+                        affordable learning platform and
+                        creating history by consecutive AIR-1 and becoming one of the top institute of the country and
+                        helping your child to pursue ita carreer.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- contact us -->
+        <section id="contact%20us">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 contact-us">
+                        <h1 class="title text-center">
+                            Contact-us
+                        </h1>
+                        <pre id="bbps">
+                            Tel. no- 11009825
+                            Phone no-11225566
+                            Mail-krith.1100@gmail.com
+                        </pre>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+        </section>
+        <!-- REVIEWS -->
+        <section id="reviews">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 reviews">
+                        <h1 class="title text-center">
+                            Reviews
+                        </h1>
+                        <p class="hi">
+                            This course helped me in my JEE preperation and following this course will be the path to
+                            success.
+                        </p>
+
+                        <img
+                            src="https://media.licdn.com/dms/image/D5603AQHEHZ26o1rhCw/profile-displayphoto-shrink_200_200/0/1703141915558?e=2147483647&v=beta&t=YevylxSOgB5MyqBzVZopmQuwWDFWDQvspSBAttcuBl4">
+                        <p class="hi"> <b>KRITH THAKKER</b>
+                        <pre class="hi">AIR-1 (IIT-JEE / 2023)</pre>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <link rel="stylesheet" href="PROJECT-1.css">
+        <!-- Optional JavaScript; choose one of the two! -->
+
+        <!-- Option 1: Bootstrap Bundle with Popper -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+
+        <!-- Option 2: Separate Popper and Bootstrap JS -->
+        <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+    -->
+</body>
+<style>
+    *{
+    margin:0;
+    padding:0;
+}
+#nav-bar{
+    position:sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(to right,#ff006e,#8338ec);
+    padding:0;
+}
+.study{
+    height:50px;
+    width:50px;
+}
+.navbar-nav a{
+    color:white;
+    font-weight:600;
+}
+#banner{
+    background-image: linear-gradient(to right, #ff006e,#8338ec);
+    color:white;
+    padding-top:5%;
+}
+#promo-title{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+.play-btn{
+    height:80px;
+    width:80px;
+}
+#banner a{
+    color:white;
+    text-decoration: none;
+}
+.img-fluid{
+    height:500px;
+    width:500px;
+} 
+.bottom-img{
+    width:100px;
+}
+.img-fluid-1{
+    height:300px;
+    width:300px;
+    margin-top:5px;
+    margin-left:500px;
+}
+#services{
+    padding:80px;
+}
+.services{
+    padding:20px;
+}
+h3{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration-line: underline;
+}
+.iit{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100px;
+}
+#line1{
+text-decoration-color:#fca311 ;
+}
+#line2{
+text-decoration-color:#4cc9f0 ;
+}
+#line3{
+text-decoration-color:#d1105a ;
+}
+.hello{
+background-color: #14213d;
+padding-bottom:50px;
+padding-top:50px;
+}
+#jee-m{
+    font-family: 'Times New Roman', Times, serif;
+    color:#a8dadc;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#fca311 
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#fca311 ;
+    margin: left 20px;;
+}
+.hi{
+    color:#a8dadc;
+    font-family: 'Times New Roman', Times, serif;
+}
+#bbps{
+    color:#a8dadc;
+    font-family: 'Times New Roman', Times, serif;
+}
+</style>
+
+</html>
